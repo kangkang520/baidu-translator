@@ -1,0 +1,39 @@
+{
+	"name": "baidu-translator",
+	"version": "1.0.1",
+	"description": "",
+	"main": "index.js",
+	"bin": {
+		"tsl": "bin/tsl.js"
+	},
+	"keywords": [
+		"百度",
+		"翻译",
+		"字典",
+		"translator",
+		"translation",
+		"translate",
+		"translat",
+		"cli",
+		"command",
+		"dict",
+		"dictionary",
+		"dictionaries",
+		"tsl",
+		"baidu",
+		"baidun",
+		"badu",
+		"badun"
+	],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@types/md5": "^2.1.32",
+		"md5": "^2.2.1",
+		"node-fetch": "^2.1.2"
+	},
+	"devDependencies": {
+		"@types/node": "^9.6.5",
+		"@types/node-fetch": "^1.6.8"
+	}
+}
